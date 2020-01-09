@@ -1,4 +1,3 @@
-# jShiki
 
 <h2 align="center"><img src="https://i.imgur.com/vhxcv5Y.png" />
 <br>Shikimori API implementation in Java
